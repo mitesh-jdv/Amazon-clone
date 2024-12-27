@@ -1,0 +1,30 @@
+@media only screen and (max-width:768px){
+    .nav-search{
+        width: 250px;
+    }
+    .panel{
+        justify-content: space-between;
+        padding: 0 25px;
+    }
+    .panel-ops, .nav-address, .nav-sign-in, .nav-return{
+        display: none;
+    }
+    /** shop section **/
+.shop-section{
+    flex-direction: column;
+    width: 100%;
+    padding: 0 25px;
+}
+.box{
+    width: 100%;
+}
+.foot-panel1{
+    flex-direction: column;
+}
+.foot-panel2{
+    flex-direction: column;
+}
+}
+
+ 
+     
